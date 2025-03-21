@@ -4159,8 +4159,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce1e808f49e18534b8c6d3f35eb51846, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  equipo1Zona: {fileID: 1028402140}
-  equipo2Zona: {fileID: 283670542}
 --- !u!1 &283670541
 GameObject:
   m_ObjectHideFlags: 0
@@ -14750,7 +14748,7 @@ Transform:
   m_GameObject: {fileID: 1010062193}
   serializedVersion: 2
   m_LocalRotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -0, z: -2137}
+  m_LocalPosition: {x: 0, y: 0, z: -16}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -29094,13 +29092,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1911836704}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.00000001789515, y: -0.88049424, z: 0.00000003323774, w: 0.474057}
-  m_LocalPosition: {x: 284.94955, y: -98.89984, z: -5212.806}
-  m_LocalScale: {x: 0.69223005, y: 1.4066, z: 0.37472352}
+  m_LocalRotation: {x: -0.000000009081313, y: -0.9706314, z: 0.000000036640323, w: 0.24057144}
+  m_LocalPosition: {x: 497.5, y: -77, z: -4949.9}
+  m_LocalScale: {x: 0.69223005, y: 1.4066, z: 0.18101768}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1136937610}
-  m_LocalEulerAnglesHint: {x: 0, y: -123.404, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -152.159, z: 0}
 --- !u!23 &1911836706
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -38685,12 +38683,12 @@ PrefabInstance:
     - target: {fileID: 274662715611618182, guid: 170f521ec5991be4e8815ded989c35d8,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 274662715611618182, guid: 170f521ec5991be4e8815ded989c35d8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2137
+      value: -16
       objectReference: {fileID: 0}
     - target: {fileID: 1162088274666043155, guid: 170f521ec5991be4e8815ded989c35d8,
         type: 3}
